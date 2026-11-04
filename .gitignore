@@ -1,0 +1,7 @@
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+
+# Local editor settings
+.idea/
+.vscode/
